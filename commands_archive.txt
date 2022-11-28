@@ -1,0 +1,7 @@
+gh repo archive GameUITHackathon2022/63-THREE-QUATA-NTH -y
+gh repo archive GameUITHackathon2022/47-Xem-vo-dich -y
+gh repo archive GameUITHackathon2022/46-Team-Su-Pham-Van-Minh -y
+gh repo archive GameUITHackathon2022/42-X-Fire -y
+gh repo archive GameUITHackathon2022/40-NII-Team -y
+gh repo archive GameUITHackathon2022/39-Lacatina -y
+gh repo archive GameUITHackathon2022/18-CSET -y
